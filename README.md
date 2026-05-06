@@ -1,28 +1,23 @@
-<table>
-<tr>
-<td valign="top" width="75%">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&width=600&lines=Hi+there%2C+I'm+Hui+Chi+%F0%9F%91%8B;Data+Science+Student+%40+MMU;Chinese+Orchestra+Musician+%F0%9F%8E%BC;Building+tools+with+data+%2B+music+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hui+Chi+%F0%9F%91%8B;Data+Science+Student+%40+MMU;Chinese+Orchestra+Musician+%F0%9F%8E%BC;Building+tools+with+data+%2B+music+%F0%9F%9A%80" alt="Typing SVG" />
 
 🎓 Data Science student at **Multimedia University**  
 💻 Exploring **AI tools**, automation & practical software projects  
 🎼 **Chinese orchestra musician** passionate about music-tech  
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hui-chi-yap-361457355)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaphuichiy@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YapHChi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huichiy)
 
-</td>
-<td valign="top" align="right" width="25%">
-
-<img src="./assets/avatar_circle.png" width="120" alt="Hui Chi" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=huichiy&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
@@ -76,13 +71,6 @@ I enjoy building practical tools that connect my interests in **data, automation
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![Music Score Converter](https://github-readme-stats.vercel.app/api/pin/?username=huichiy&repo=Music-Score-Converter&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/huichiy/Music-Score-Converter)
-[![OS Project](https://github-readme-stats.vercel.app/api/pin/?username=huichiy&repo=OS_Project&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/huichiy/OS_Project)
-
-</div>
-
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🎼 [Music Score Converter](https://github.com/huichiy/Music-Score-Converter) | Client-side web app converting MusicXML/MIDI → Jianpu (Chinese numbered notation) | JavaScript |
@@ -95,14 +83,9 @@ I enjoy building practical tools that connect my interests in **data, automation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=huichiy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huichiy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="165" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=huichiy&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/huichiy)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=huichiy&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huichiy&theme=github_dark" width="100%" />
 
 </div>
 
